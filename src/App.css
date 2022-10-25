@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  margin: 2%;
+  padding: 60px;
+  border: solid rgb(166, 217, 247);
+  align-content: center;
+}
+.header {
+  text-align: center;
+}
+.mentor {
+  display: flex;
+  margin: 2%;
+  padding: 60px;
+  border: solid rgb(166, 217, 247);
+  align-content: center;
+  align-items: flex-end;
+}
+.container {
+  background-color: rgb(195, 243, 227);
+  padding: 4%;
+}
